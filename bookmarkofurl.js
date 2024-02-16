@@ -52,4 +52,4 @@
             list.removeChild(list.firstChild);
         }
     });
-</script>
+
